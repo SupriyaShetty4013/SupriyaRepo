@@ -1,2 +1,2 @@
 Line1
-Line2 from Master branch
+Line2 from Master branch and test branch
