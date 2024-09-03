@@ -1,6 +1,6 @@
 public class Display10
 {
-public void static mqain(String args[])
+public void static main(String args[])
 {
 for(int i=1;i<=5;i++)
 {
